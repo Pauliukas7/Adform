@@ -1,0 +1,21 @@
+.table-header {
+  margin-top: 5rem;
+  margin-inline: auto;
+  background-color: blue;
+  width: 50rem;
+  display: flex;
+  justify-content: space-between;
+}
+.table-row {
+  font-family: bold;
+  width: 50rem;
+  display: flex;
+  justify-content: space-between;
+}
+th,
+td {
+  border: 1px solid white;
+  padding: 4px;
+  width: 8rem;
+  text-align: center;
+}

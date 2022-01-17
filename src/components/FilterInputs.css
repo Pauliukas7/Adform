@@ -1,0 +1,23 @@
+.all-inputs {
+  display: flex;
+  justify-content: space-between;
+  border: 1px solid black;
+  margin-top: 2rem;
+}
+.date-inputs {
+  margin-left: 5rem;
+
+  display: flex;
+  justify-content: space-between;
+  width: 23rem;
+}
+.name-input {
+  margin-right: 5rem;
+}
+.text-box {
+  height: 2rem;
+}
+
+input {
+  height: 2rem;
+}

@@ -1,0 +1,38 @@
+.add-new-text {
+  font-weight: bold;
+  margin-block: 1rem;
+}
+
+.field-labels {
+  display: flex;
+  justify-content: space-between;
+  border: 1px solid black;
+  width: fit-content;
+}
+.field-label {
+  border: 1px solid black;
+  width: 10rem;
+}
+.input-fields {
+  display: flex;
+  justify-self: center;
+}
+input {
+  width: 9.68rem;
+}
+.react-datepicker {
+  margin-right: 1px;
+}
+
+.add-campaign-button {
+  height: 2rem;
+  cursor: pointer;
+  background-color: rgb(58, 158, 224);
+  border-radius: 5px;
+  border-color: transparent;
+  font-weight: bold;
+}
+
+.add-campaign-button:hover {
+  background-color: rgb(105, 179, 240);
+}

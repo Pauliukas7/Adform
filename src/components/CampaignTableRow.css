@@ -1,0 +1,15 @@
+.table-row {
+  width: 50rem;
+  display: flex;
+  justify-content: space-between;
+}
+td {
+  font-size: 1.1rem;
+}
+
+.active {
+  color: green;
+}
+.inactive {
+  color: red;
+}
